@@ -1,0 +1,27 @@
+
+[
+    {
+        "nombre": "Universidad",
+        "apellido": "Playa Ancha",
+        "ciudad": "Valparaiso",
+        "categoria": "Grupo A"
+    },
+    {
+        "nombre": "Ana",
+        "apellido": "Pérez",
+        "ciudad": "Valparaiso",
+        "categoria": "Grupo B"
+    },
+    {
+        "nombre": "Juan",
+        "apellido": "González",
+        "ciudad": "Viña del Mar",
+        "categoria": "Grupo A"
+    },
+    {
+        "nombre": "María",
+        "apellido": "Soto",
+        "ciudad": "Quilpué",
+        "categoria": "Grupo C"
+    }
+]
