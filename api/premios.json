@@ -1,0 +1,14 @@
+[
+    {
+        "id": 1,
+        "nombre": "Canasta familiar",
+        "descripcion": "Canasta con productos de alimentación",
+        "estado": "Disponible"
+    },
+    {
+        "id": 2,
+        "nombre": "Gift card",
+        "descripcion": "Tarjeta de regalo",
+        "estado": "Disponible"
+    }
+]

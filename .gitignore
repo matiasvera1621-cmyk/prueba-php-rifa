@@ -1,0 +1,16 @@
+
+# Comprobantes cargados por los usuarios
+/comprobantes/*
+!/comprobantes/.gitkeep
+
+# Archivo temporal de busqueda
+/participantes_busqueda.json
+
+# Configuraciones privadas
+.env
+.env.*
+config.local.php
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
